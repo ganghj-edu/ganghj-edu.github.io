@@ -21,7 +21,7 @@ title                    : "BrainBell 교육용 블로그입니다"
 title_separator          : "-"
 subtitle                 : "BrainBell 교육용 블로그에 오신것을 환영합니다
 name                     : "by BrainBell"
-description              : "An amazing website."
+description              : "BrainBell edu. blog website."
 url                      : "https://ganghj-edu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

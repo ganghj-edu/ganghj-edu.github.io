@@ -1,4 +1,4 @@
-# [BreinBell Blog website fork by Minimal Mistakes Jekyll theme](https://ganghj-edu.github.io/)
+# [BrainBell Blog website fork by Minimal Mistakes Jekyll theme](https://ganghj-edu.github.io/)
 
 ## License
 
